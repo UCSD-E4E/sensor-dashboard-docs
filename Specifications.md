@@ -25,6 +25,7 @@
 
 #### 2. REST API
 1. There exists authenticated CRUD API for 
+2. Python API wrapper around REST API
 
 #### 3. Administrative Back End
 1. Different levels of user rights
