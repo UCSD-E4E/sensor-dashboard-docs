@@ -40,6 +40,7 @@
 3. Supports templates for how to read from sensors
 4. Templates indicate unhealthy condition
 5. Support different database backends
+6. Store sensor metadata
 
 #### 5. Alerting Requirements
 1. Send alerts when sensors are unhealthy when connected to the internet
