@@ -35,7 +35,7 @@
 5. Leverages REST API
 
 #### 4. Backend Requriements
-1. Self contained database
+1. Self contained database/hosted database
 2. ARM and x86 compatible
 3. Supports templates for how to read from sensors
 4. Templates indicate unhealthy condition
