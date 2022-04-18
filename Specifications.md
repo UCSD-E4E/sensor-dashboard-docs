@@ -4,7 +4,7 @@
 **Initial Pilot**: San Diego Zoo
 
 ### Basic Application Requirements
-#### Common Requriements
+#### 0. Common Requriements
 1. Must be able to be run without being connected to the internet
 2. Must use https with either provided certificate or self-signed
 
