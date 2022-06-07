@@ -51,3 +51,12 @@
 2. Ionic/Capacitor/React Native
 3. Node backend
 4. Unknown datastorage, propose starting with Sqlite
+
+
+Official Github pages:
+
+See readme's for getting started, Wiki's for in depth descriptions.
+
+https://github.com/UCSD-E4E/sdzwa-sensor-dashboard-backend
+
+https://github.com/UCSD-E4E/sdzwa-sensor-dashboard-frontend
